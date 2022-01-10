@@ -9,6 +9,7 @@ It can enumerate all possible solutions towards a Sudoku.
     
 ## N-queens:  
 <img width = "150" height = "350" src = "https://github.com/CocoYard/DFS-Backtracking/blob/master/image/Nqueens.png"/>
+
     Input: size of the board  
     Output: permutation of the 'queens'
     
